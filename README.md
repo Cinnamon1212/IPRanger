@@ -1,6 +1,6 @@
 # IPRanger
 
-This tool was design to be used in Linux for networking and penetration testing.   
+IPRanger is a networking tool used for ping checking a given IP range  
 
 PIP Requirements:  
  * ipaddress  
